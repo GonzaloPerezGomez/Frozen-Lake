@@ -1,4 +1,4 @@
-name: lunar-lander
+name: frozen-lake
 channels:
   - conda-forge
   - defaults
