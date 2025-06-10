@@ -12,7 +12,7 @@ Este proyecto implementa los algoritmos de Q-Learning y SARSA para resolver el e
 ## Requisitos
 
 - Python 3.8+
-- OpenAI Gym
+- Gymnasium
 - NumPy
 
 Instalación del entorno con Conda:
